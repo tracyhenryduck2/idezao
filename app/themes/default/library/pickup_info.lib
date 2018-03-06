@@ -1,3 +1,0 @@
-<span>自提点：</span>
-<span class='pickup_point' pickup_id='{$pickup_id}' supplier_id='{$supplier_id}'>{$pickup_name}</span>
-<span style='color:#F52648'>&nbsp;点击修改</span>
